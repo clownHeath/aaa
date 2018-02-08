@@ -1,0 +1,133 @@
+
+{
+    "navClass":{
+        "icon":[
+            {
+                "id": "1",
+                "img": "https://goods6.juancdn.com/jas/180119/b/d/5a619dd9a9fcf895db297b8a_270x241.png?imageMogr2/quality/85!/format/png"
+            },
+            {
+                "id": "2",
+                "img": "https://goods7.juancdn.com/jas/171208/c/5/5a2a53dd8150a106e22dee1c_270x241.png?iopcmd=convert&Q=85&dst=png"
+            },
+            {
+                "id": "3",
+                "img": "https://goods7.juancdn.com/jas/171208/c/3/5a2a53d5a9fcf824482b0586_270x241.png?iopcmd=convert&Q=85&dst=png"
+            },
+            {
+                "id": "4",
+                "img": "https://s2.juancdn.com/jas/180115/9/1/5a5c1fd18150a1460174ceec_270x241.gif"
+            },
+            {
+                "id": "5",
+                "img": "https://goods1.juancdn.com/jas/180102/1/7/5a4ae960a9fcf87bdf517cfe_270x261.png?iopcmd=convert&Q=85&dst=png"
+            },
+            {
+                "id": "6",
+                "img": "https://goods2.juancdn.com/jas/180102/2/c/5a4ae9708150a1503a0653a5_270x261.png?imageMogr2/quality/85!/format/png"
+            },
+            {
+                "id": "7",
+                "img": "https://goods2.juancdn.com/jas/180102/2/0/5a4b35f38150a156fe6631dd_270x261.png?imageMogr2/quality/85!/format/png"
+            },
+            {
+                "id": "8",
+                "img": "https://goods3.juancdn.com/jas/180102/4/1/5a4b360e8150a157197265ff_270x261.png?iopcmd=convert&Q=85&dst=png"
+            }
+        ],
+        "banner":[
+            {
+                "id": "1",
+                "img": "https://goods6.juancdn.com/jas/180110/a/3/5a55e051a9fcf81c2e6c75a7_1080x418.png"
+            },
+            {
+                "id": "2",
+                "img": "https://goods4.juancdn.com/jas/171227/7/2/5a42fdcc8150a125643796da_1080x418.jpg"
+            },
+            {
+                "id": "3",
+                "img": "https://goods4.juancdn.com/jas/171210/7/7/5a2ceafda9fcf81be021ed5d_1080x418.png"
+            },
+            {
+                "id": "4",
+                "img": "https://goods2.juancdn.com/jas/180119/3/9/5a618d248150a11efe300605_1080x418.png"
+            },
+            {
+                "id": "5",
+                "img": "https://goods6.juancdn.com/jas/180119/a/9/5a619189a9fcf8702e123d4b_1080x418.png"
+            },
+            {
+                "id": "6",
+                "img": "https://goods3.juancdn.com/jas/180120/4/1/5a631f9ba9fcf829523ff875_1080x418.png"
+            },
+            {
+                "id": "7",
+                "img": "https://goods3.juancdn.com/jas/180119/5/d/5a619dbfa9fcf8983e12635e_1080x418.png"
+            },
+            {
+                "id": "8",
+                "img": "https://goods2.juancdn.com/jas/180120/3/c/5a63108ca9fcf882527a594a_1080x418.png"
+            }
+        ],
+        "classify":[
+            {
+                "id": "1",
+                "img": "https://goods4.juancdn.com/jas/180117/6/8/5a5f1f218150a12c8f5f5829_540x320.png?imageMogr2/quality/85!/format/png"
+            },
+            {
+                "id": "2",
+                "img": "https://goods3.juancdn.com/jas/180122/5/a/5a65ac45a9fcf82ae771fde7_540x320.png?iopcmd=convert&Q=85&dst=png"
+            },
+            {
+                "id": "3",
+                "img": "https://goods4.juancdn.com/jas/180110/7/7/5a55b96ea9fcf84c10099ad7_270x352.png?imageMogr2/quality/85!/format/png"
+            },
+            {
+                "id": "4",
+                "img": "https://goods4.juancdn.com/jas/180117/6/5/5a5eaea28150a1152c4648aa_270x352.png?imageMogr2/quality/85!/format/png"
+            },
+            {
+                "id": "5",
+                "img": "https://goods3.juancdn.com/jas/180115/5/5/5a5c41e88150a1318957b67a_270x352.png?iopcmd=convert&Q=85&dst=png"
+            },
+            {
+                "id": "6",
+                "img": "https://goods8.juancdn.com/jas/180119/e/7/5a617110a9fcf8b2c32ade48_270x352.png?imageMogr2/quality/85!/format/png"
+            }
+        ],
+        "selected":[
+            {
+                "id": "1",
+                "img": "https://goods7.juancdn.com/jas/180122/c/d/5a6545b38150a14cd61d8762_270x230.png?iopcmd=convert&Q=85&dst=png"
+            },
+            {
+                "id": "2",
+                "img": "https://goods1.juancdn.com/jas/180122/1/3/5a653634a9fcf8b6747d8a7b_270x230.jpg?iopcmd=convert&Q=85&dst=jpg"
+            },
+            {
+                "id": "3",
+                "img": "https://goods3.juancdn.com/jas/180122/4/6/5a6543348150a123c2044531_270x230.png?iopcmd=convert&Q=85&dst=png"
+            },
+            {
+                "id": "4",
+                "img": "https://goods3.juancdn.com/jas/180122/5/7/5a6540a5a9fcf837c53cc27b_270x230.jpg?iopcmd=convert&Q=85&dst=jpg"
+            },
+            {
+                "id": "5",
+                "img": "https://goods6.juancdn.com/jas/180122/b/9/5a655ca38150a1095809e424_270x230.png?imageMogr2/quality/85!/format/png"
+            },
+            {
+                "id": "6",
+                "img": "https://goods2.juancdn.com/jas/180109/3/0/5a54380ba9fcf8b0d039cf18_270x230.png?imageMogr2/quality/85!/format/png"
+            },
+            {
+                "id": "7",
+                "img": "https://goods8.juancdn.com/jas/171025/e/b/59f00006a9fcf8479e4d2e8c_270x230.png?imageMogr2/quality/85!/format/png"
+            },
+            {
+                "id": "8",
+                "img": "https://goods8.juancdn.com/jas/180122/f/6/5a653aa08150a123c204452d_270x230.png?imageMogr2/quality/85!/format/png"
+            }
+        ]
+    }
+}

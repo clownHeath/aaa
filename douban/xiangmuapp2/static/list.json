@@ -1,0 +1,2614 @@
+{
+adsInfo: {
+slide_ads: {
+config: {
+slide: [
+{
+id: "16831",
+size: "1080*418",
+x_record: "1_1",
+zyid: "18",
+activityname: "click_cube_banner",
+server_jsonstr: "{"pit_info":"banner::16831::1_1","cid":"","_t":1516630888}",
+pic: "https://goods6.juancdn.com/jas/180110/a/3/5a55e051a9fcf81c2e6c75a7_1080x418.png",
+jump_url: "https://mact.juanpi.com/rexiaobang?mjuanpi_wx=1"
+},
+{
+id: "16330",
+size: "1080*418",
+x_record: "1_2",
+zyid: "18",
+activityname: "click_cube_banner",
+server_jsonstr: "{"pit_info":"banner::16330::1_2","cid":"","_t":1516630888}",
+pic: "https://goods4.juancdn.com/jas/171227/7/2/5a42fdcc8150a125643796da_1080x418.jpg",
+jump_url: "https://mact.juanpi.com/xin?mjuanpi_wx=1"
+},
+{
+id: "16277",
+size: "1080*418",
+x_record: "1_3",
+zyid: "18",
+activityname: "click_cube_banner",
+server_jsonstr: "{"pit_info":"banner::16277::1_3","cid":"","_t":1516630888}",
+pic: "https://goods4.juancdn.com/jas/171210/7/7/5a2ceafda9fcf81be021ed5d_1080x418.png",
+jump_url: "https://mact.juanpi.com/yuanpin?mjuanpi_wx=1"
+},
+{
+id: "17027",
+size: "1080*418",
+x_record: "1_4",
+zyid: "5",
+activityname: "click_cube_banner",
+server_jsonstr: "{"pit_info":"banner::17027::1_4","cid":"","_t":1516630888}",
+pic: "https://goods2.juancdn.com/jas/180119/3/9/5a618d248150a11efe300605_1080x418.png",
+jump_url: "https://mact.juanpi.com/sub_xiezi0122?mjuanpi_wx=1"
+},
+{
+id: "17031",
+size: "1080*418",
+x_record: "1_5",
+zyid: "5",
+activityname: "click_cube_banner",
+server_jsonstr: "{"pit_info":"banner::17031::1_5","cid":"","_t":1516630888}",
+pic: "https://goods6.juancdn.com/jas/180119/a/9/5a619189a9fcf8702e123d4b_1080x418.png",
+jump_url: "https://mact.juanpi.com/sub_mzhc0122?mjuanpi_wx=1"
+},
+{
+id: "17071",
+size: "1080*418",
+x_record: "1_6",
+zyid: "5",
+activityname: "click_cube_banner",
+server_jsonstr: "{"pit_info":"banner::17071::1_6","cid":"","_t":1516630888}",
+pic: "https://goods3.juancdn.com/jas/180120/4/1/5a631f9ba9fcf829523ff875_1080x418.png",
+jump_url: "https://mact.juanpi.com/sub_nzhc0122?qmshareview=1&mjuanpi_wx=1"
+},
+{
+id: "17068",
+size: "1080*418",
+x_record: "1_7",
+zyid: "5",
+activityname: "click_cube_banner",
+server_jsonstr: "{"pit_info":"banner::17068::1_7","cid":"","_t":1516630888}",
+pic: "https://goods3.juancdn.com/jas/180119/5/d/5a619dbfa9fcf8983e12635e_1080x418.png",
+jump_url: "https://mact.juanpi.com/sub_msnhj0122?qmshareview=1&mjuanpi_wx=1"
+},
+{
+id: "17065",
+size: "1080*418",
+x_record: "1_8",
+zyid: "5",
+activityname: "click_cube_banner",
+server_jsonstr: "{"pit_info":"banner::17065::1_8","cid":"","_t":1516630888}",
+pic: "https://goods2.juancdn.com/jas/180120/3/c/5a63108ca9fcf882527a594a_1080x418.png",
+jump_url: "https://mact.juanpi.com/zhuhuichang10122?qmshareview=1&mjuanpi_wx=1"
+}
+]
+}
+},
+top_ads: [ ],
+block: [
+{
+block_id: "249",
+multi_block: [
+{
+show_type: "1",
+width: "1",
+margin_enabled: "0",
+data: [
+{
+cell: "col",
+height: "0.2231",
+width: "0.25",
+child: [
+{
+cell: "row",
+background: "",
+width: "1",
+height: "1",
+pic: "https://goods6.juancdn.com/jas/180119/b/d/5a619dd9a9fcf895db297b8a_270x241.png?imageMogr2/quality/85!/format/png",
+url: "https://mact.juanpi.com/rexiaobang?mjuanpi_wx=1",
+countdown: {
+enable_time: "",
+start_time: "",
+end_time: "",
+start_text: "",
+end_text: ""
+},
+bd_id: "19126",
+new_product: [ ],
+x_record: "1_1",
+activityname: "click_cube_block",
+server_jsonstr: "{"pit_info":"ad_id::249::block_id::5803::img_id::19126::1_1","cid":-1,"_t":1516630888,"_z":"5","ab_info":null}"
+}
+]
+},
+{
+cell: "col",
+height: "0.2231",
+width: "0.25",
+child: [
+{
+cell: "row",
+background: "",
+width: "1",
+height: "1",
+pic: "https://goods7.juancdn.com/jas/171208/c/5/5a2a53dd8150a106e22dee1c_270x241.png?iopcmd=convert&Q=85&dst=png",
+url: "https://m.juanpi.com/recharge/index?mjuanpi_wx=1",
+countdown: {
+enable_time: "",
+start_time: "",
+end_time: "",
+start_text: "",
+end_text: ""
+},
+bd_id: "19127",
+new_product: [ ],
+x_record: "1_2",
+activityname: "click_cube_block",
+server_jsonstr: "{"pit_info":"ad_id::249::block_id::5803::img_id::19127::1_2","cid":-1,"_t":1516630888,"_z":"5","ab_info":null}"
+}
+]
+},
+{
+cell: "col",
+height: "0.2231",
+width: "0.25",
+child: [
+{
+cell: "row",
+background: "",
+width: "1",
+height: "1",
+pic: "https://goods7.juancdn.com/jas/171208/c/3/5a2a53d5a9fcf824482b0586_270x241.png?iopcmd=convert&Q=85&dst=png",
+url: "http://web.juanpi.com/brands/clearance?mjuanpi_wx=1",
+countdown: {
+enable_time: "",
+start_time: "",
+end_time: "",
+start_text: "",
+end_text: ""
+},
+bd_id: "19128",
+new_product: [ ],
+x_record: "1_3",
+activityname: "click_cube_block",
+server_jsonstr: "{"pit_info":"ad_id::249::block_id::5803::img_id::19128::1_3","cid":-1,"_t":1516630888,"_z":"5","ab_info":null}"
+}
+]
+},
+{
+cell: "col",
+height: "0.2231",
+width: "0.25",
+child: [
+{
+cell: "row",
+background: "",
+width: "1",
+height: "1",
+pic: "https://s2.juancdn.com/jas/180115/9/1/5a5c1fd18150a1460174ceec_270x241.gif",
+url: "https://web.juanpi.com/supervip?mjuanpi_wx=1",
+countdown: {
+enable_time: "",
+start_time: "",
+end_time: "",
+start_text: "",
+end_text: ""
+},
+bd_id: "19129",
+new_product: [ ],
+x_record: "1_4",
+activityname: "click_cube_block",
+server_jsonstr: "{"pit_info":"ad_id::249::block_id::5803::img_id::19129::1_4","cid":-1,"_t":1516630888,"_z":"5","ab_info":null}"
+}
+]
+}
+],
+split_line: "0",
+split_color: "",
+height: "0.2231",
+block_type: "15"
+},
+{
+show_type: "1",
+width: "1",
+margin_enabled: "0",
+data: [
+{
+cell: "col",
+height: "0.2417",
+width: "0.25",
+child: [
+{
+cell: "row",
+background: "",
+width: "1",
+height: "1",
+pic: "https://goods1.juancdn.com/jas/180102/1/7/5a4ae960a9fcf87bdf517cfe_270x261.png?iopcmd=convert&Q=85&dst=png",
+url: "https://tuan.juanpi.com/Oldbringnew?mjuanpi_wx=1",
+countdown: {
+enable_time: "",
+start_time: "",
+end_time: "",
+start_text: "",
+end_text: ""
+},
+bd_id: "19130",
+new_product: [ ],
+x_record: "2_1",
+activityname: "click_cube_block",
+server_jsonstr: "{"pit_info":"ad_id::249::block_id::5804::img_id::19130::2_1","cid":-1,"_t":1516630888,"_z":"5","ab_info":null}"
+}
+]
+},
+{
+cell: "col",
+height: "0.2417",
+width: "0.25",
+child: [
+{
+cell: "row",
+background: "",
+width: "1",
+height: "1",
+pic: "https://goods2.juancdn.com/jas/180102/2/c/5a4ae9708150a1503a0653a5_270x261.png?imageMogr2/quality/85!/format/png",
+url: "https://tuan.juanpi.com/pintuan?mjuanpi_wx=1",
+countdown: {
+enable_time: "",
+start_time: "",
+end_time: "",
+start_text: "",
+end_text: ""
+},
+bd_id: "19131",
+new_product: [ ],
+x_record: "2_2",
+activityname: "click_cube_block",
+server_jsonstr: "{"pit_info":"ad_id::249::block_id::5804::img_id::19131::2_2","cid":-1,"_t":1516630888,"_z":"5","ab_info":null}"
+}
+]
+},
+{
+cell: "col",
+height: "0.2417",
+width: "0.25",
+child: [
+{
+cell: "row",
+background: "",
+width: "1",
+height: "1",
+pic: "https://goods2.juancdn.com/jas/180102/2/0/5a4b35f38150a156fe6631dd_270x261.png?imageMogr2/quality/85!/format/png",
+url: "https://mact.juanpi.com/thcs?mjuanpi_wx=1",
+countdown: {
+enable_time: "",
+start_time: "",
+end_time: "",
+start_text: "",
+end_text: ""
+},
+bd_id: "19132",
+new_product: [ ],
+x_record: "2_3",
+activityname: "click_cube_block",
+server_jsonstr: "{"pit_info":"ad_id::249::block_id::5804::img_id::19132::2_3","cid":-1,"_t":1516630888,"_z":"5","ab_info":null}"
+}
+]
+},
+{
+cell: "col",
+height: "0.2417",
+width: "0.25",
+child: [
+{
+cell: "row",
+background: "",
+width: "1",
+height: "1",
+pic: "https://goods3.juancdn.com/jas/180102/4/1/5a4b360e8150a157197265ff_270x261.png?iopcmd=convert&Q=85&dst=png",
+url: "http://m.juanpi.com/cate/314?source=mmmmmm&mjuanpi_wx=1",
+countdown: {
+enable_time: "",
+start_time: "",
+end_time: "",
+start_text: "",
+end_text: ""
+},
+bd_id: "19133",
+new_product: [ ],
+x_record: "2_4",
+activityname: "click_cube_block",
+server_jsonstr: "{"pit_info":"ad_id::249::block_id::5804::img_id::19133::2_4","cid":-1,"_t":1516630888,"_z":"5","ab_info":null}"
+}
+]
+}
+],
+split_line: "0",
+split_color: "",
+height: "0.2417",
+block_type: "15"
+},
+{
+show_type: "1",
+width: "1",
+margin_enabled: "0",
+data: [
+{
+cell: "col",
+height: "0.2824",
+width: "1",
+child: [
+{
+cell: "row",
+background: "",
+width: "1",
+height: "1",
+pic: "https://s2.juancdn.com/jas/180120/8/b/5a6312e3a9fcf876c1102eed_1080x305.gif",
+url: "https://mact.juanpi.com/zhuhuichang10122?qmshareview=1&mjuanpi_wx=1",
+countdown: {
+enable_time: "0",
+start_time: "",
+end_time: "",
+start_text: "",
+end_text: ""
+},
+bd_id: "21099",
+new_product: [ ],
+x_record: "3_1",
+activityname: "click_cube_block",
+server_jsonstr: "{"pit_info":"ad_id::249::block_id::6188::img_id::21099::3_1","cid":-1,"_t":1516630888,"_z":"5","ab_info":null}"
+}
+]
+}
+],
+split_line: "0",
+split_color: "",
+height: "0.2824",
+block_type: "2"
+},
+{
+show_type: "1",
+width: "1",
+margin_enabled: "0",
+data: [
+{
+cell: "col",
+height: "0.1944",
+width: "0.5",
+child: [
+{
+cell: "row",
+background: "",
+width: "1",
+height: "1",
+pic: "https://goods4.juancdn.com/jas/180120/6/3/5a6314d78150a10e50610774_540x210.png?imageMogr2/quality/85!/format/png",
+url: "https://mact.juanpi.com/sub_msnhj0122?qmshareview=1&mjuanpi_wx=1",
+countdown: {
+enable_time: "0",
+start_time: "",
+end_time: "",
+start_text: "",
+end_text: ""
+},
+bd_id: "21086",
+new_product: [ ],
+x_record: "4_1",
+activityname: "click_cube_block",
+server_jsonstr: "{"pit_info":"ad_id::249::block_id::6184::img_id::21086::4_1","cid":-1,"_t":1516630888,"_z":"5","ab_info":null}"
+}
+]
+},
+{
+cell: "col",
+height: "0.1944",
+width: "0.5",
+child: [
+{
+cell: "row",
+background: "",
+width: "1",
+height: "1",
+pic: "https://goods7.juancdn.com/jas/180120/d/8/5a631544a9fcf87ef907bed1_540x210.png?iopcmd=convert&Q=85&dst=png",
+url: "https://mact.juanpi.com/sub_nzhc0122?qmshareview=1&mjuanpi_wx=1",
+countdown: {
+enable_time: "0",
+start_time: "",
+end_time: "",
+start_text: "",
+end_text: ""
+},
+bd_id: "21087",
+new_product: [ ],
+x_record: "4_2",
+activityname: "click_cube_block",
+server_jsonstr: "{"pit_info":"ad_id::249::block_id::6184::img_id::21087::4_2","cid":-1,"_t":1516630888,"_z":"5","ab_info":null}"
+}
+]
+}
+],
+split_line: "0",
+split_color: "",
+height: "0.1944",
+block_type: "3"
+},
+{
+show_type: "1",
+width: "1",
+margin_enabled: "0",
+data: [
+{
+cell: "col",
+height: "0.1935",
+width: "0.3333",
+child: [
+{
+cell: "row",
+background: "",
+width: "1",
+height: "1",
+pic: "https://goods7.juancdn.com/jas/180120/c/3/5a6315d0a9fcf879b77006db_360x209.png?iopcmd=convert&Q=85&dst=png",
+url: "https://mact.juanpi.com/sub_myhc0122?qmshareview=1&mjuanpi_wx=1",
+countdown: {
+enable_time: "0",
+start_time: "",
+end_time: "",
+start_text: "",
+end_text: ""
+},
+bd_id: "21088",
+new_product: [ ],
+x_record: "5_1",
+activityname: "click_cube_block",
+server_jsonstr: "{"pit_info":"ad_id::249::block_id::6185::img_id::21088::5_1","cid":-1,"_t":1516630888,"_z":"5","ab_info":null}"
+}
+]
+},
+{
+cell: "col",
+height: "0.1935",
+width: "0.3333",
+child: [
+{
+cell: "row",
+background: "",
+width: "1",
+height: "1",
+pic: "https://goods8.juancdn.com/jas/180120/e/8/5a6315eda9fcf8762a4d098e_360x209.png?imageMogr2/quality/85!/format/png",
+url: "https://mact.juanpi.com/sub_xiezi0122?qmshareview=1&mjuanpi_wx=1",
+countdown: {
+enable_time: "0",
+start_time: "",
+end_time: "",
+start_text: "",
+end_text: ""
+},
+bd_id: "21089",
+new_product: [ ],
+x_record: "5_2",
+activityname: "click_cube_block",
+server_jsonstr: "{"pit_info":"ad_id::249::block_id::6185::img_id::21089::5_2","cid":-1,"_t":1516630888,"_z":"5","ab_info":null}"
+}
+]
+},
+{
+cell: "col",
+height: "0.1935",
+width: "0.3333",
+child: [
+{
+cell: "row",
+background: "",
+width: "1",
+height: "1",
+pic: "https://goods4.juancdn.com/jas/180120/7/1/5a6316388150a113815078f1_360x209.png?imageMogr2/quality/85!/format/png",
+url: "https://mact.juanpi.com/sub_nzfhc0122?qmshareview=1&mjuanpi_wx=1",
+countdown: {
+enable_time: "0",
+start_time: "",
+end_time: "",
+start_text: "",
+end_text: ""
+},
+bd_id: "21090",
+new_product: [ ],
+x_record: "5_3",
+activityname: "click_cube_block",
+server_jsonstr: "{"pit_info":"ad_id::249::block_id::6185::img_id::21090::5_3","cid":-1,"_t":1516630888,"_z":"5","ab_info":null}"
+}
+]
+}
+],
+split_line: "0",
+split_color: "",
+height: "0.1935",
+block_type: "5"
+},
+{
+show_type: "1",
+width: "1",
+margin_enabled: "0",
+data: [
+{
+cell: "col",
+height: "0.2019",
+width: "0.25",
+child: [
+{
+cell: "row",
+background: "",
+width: "1",
+height: "1",
+pic: "https://goods5.juancdn.com/jas/180120/8/f/5a6316da8150a111270c91d0_270x218.png?iopcmd=convert&Q=85&dst=png",
+url: "https://mact.juanpi.com/sub_jujia0122?qmshareview=1&mjuanpi_wx=1",
+countdown: {
+enable_time: "",
+start_time: "",
+end_time: "",
+start_text: "",
+end_text: ""
+},
+bd_id: "21091",
+new_product: [ ],
+x_record: "6_1",
+activityname: "click_cube_block",
+server_jsonstr: "{"pit_info":"ad_id::249::block_id::6186::img_id::21091::6_1","cid":-1,"_t":1516630888,"_z":"5","ab_info":null}"
+}
+]
+},
+{
+cell: "col",
+height: "0.2019",
+width: "0.25",
+child: [
+{
+cell: "row",
+background: "",
+width: "1",
+height: "1",
+pic: "https://goods7.juancdn.com/jas/180120/d/c/5a63171c8150a1132a2ff2da_270x218.png?iopcmd=convert&Q=85&dst=png",
+url: "https://mact.juanpi.com/sub_smnhjzhc0122?qmshareview=1&mjuanpi_wx=1",
+countdown: {
+enable_time: "",
+start_time: "",
+end_time: "",
+start_text: "",
+end_text: ""
+},
+bd_id: "21092",
+new_product: [ ],
+x_record: "6_2",
+activityname: "click_cube_block",
+server_jsonstr: "{"pit_info":"ad_id::249::block_id::6186::img_id::21092::6_2","cid":-1,"_t":1516630888,"_z":"5","ab_info":null}"
+}
+]
+},
+{
+cell: "col",
+height: "0.2019",
+width: "0.25",
+child: [
+{
+cell: "row",
+background: "",
+width: "1",
+height: "1",
+pic: "https://goods3.juancdn.com/jas/180120/4/d/5a631747a9fcf87ab76988ae_270x218.png?iopcmd=convert&Q=85&dst=png",
+url: "https://mact.juanpi.com/sub_nynhjhc0122?qmshareview=1&mjuanpi_wx=1",
+countdown: {
+enable_time: "",
+start_time: "",
+end_time: "",
+start_text: "",
+end_text: ""
+},
+bd_id: "21093",
+new_product: [ ],
+x_record: "6_3",
+activityname: "click_cube_block",
+server_jsonstr: "{"pit_info":"ad_id::249::block_id::6186::img_id::21093::6_3","cid":-1,"_t":1516630888,"_z":"5","ab_info":null}"
+}
+]
+},
+{
+cell: "col",
+height: "0.2019",
+width: "0.25",
+child: [
+{
+cell: "row",
+background: "",
+width: "1",
+height: "1",
+pic: "https://goods1.juancdn.com/jas/180120/1/3/5a6317708150a10ffa1aefa2_270x218.png?iopcmd=convert&Q=85&dst=png",
+url: "https://mact.juanpi.com/sub_mzhc0122?qmshareview=1&mjuanpi_wx=1",
+countdown: {
+enable_time: "",
+start_time: "",
+end_time: "",
+start_text: "",
+end_text: ""
+},
+bd_id: "21094",
+new_product: [ ],
+x_record: "6_4",
+activityname: "click_cube_block",
+server_jsonstr: "{"pit_info":"ad_id::249::block_id::6186::img_id::21094::6_4","cid":-1,"_t":1516630888,"_z":"5","ab_info":null}"
+}
+]
+}
+],
+split_line: "0",
+split_color: "",
+height: "0.2019",
+block_type: "15"
+},
+{
+show_type: "1",
+width: "1",
+margin_enabled: "0",
+data: [
+{
+cell: "col",
+height: "0.2037",
+width: "0.25",
+child: [
+{
+cell: "row",
+background: "",
+width: "1",
+height: "1",
+pic: "https://goods7.juancdn.com/jas/180122/c/6/5a6551a08150a12307318a86_270x220.png?iopcmd=convert&Q=85&dst=png",
+url: "https://mact.juanpi.com/sub_xbpsfhc0122?qmshareview=1&mjuanpi_wx=1",
+countdown: {
+enable_time: "",
+start_time: "",
+end_time: "",
+start_text: "",
+end_text: ""
+},
+bd_id: "21095",
+new_product: [ ],
+x_record: "7_1",
+activityname: "click_cube_block",
+server_jsonstr: "{"pit_info":"ad_id::249::block_id::6187::img_id::21095::7_1","cid":-1,"_t":1516630888,"_z":"5","ab_info":null}"
+}
+]
+},
+{
+cell: "col",
+height: "0.2037",
+width: "0.25",
+child: [
+{
+cell: "row",
+background: "",
+width: "1",
+height: "1",
+pic: "https://goods1.juancdn.com/jas/180120/0/f/5a631840a9fcf82b07546173_270x220.png?iopcmd=convert&Q=85&dst=png",
+url: "https://mact.juanpi.com/sub_ydhw0122?qmshareview=1&mjuanpi_wx=1",
+countdown: {
+enable_time: "",
+start_time: "",
+end_time: "",
+start_text: "",
+end_text: ""
+},
+bd_id: "21096",
+new_product: [ ],
+x_record: "7_2",
+activityname: "click_cube_block",
+server_jsonstr: "{"pit_info":"ad_id::249::block_id::6187::img_id::21096::7_2","cid":-1,"_t":1516630888,"_z":"5","ab_info":null}"
+}
+]
+},
+{
+cell: "col",
+height: "0.2037",
+width: "0.25",
+child: [
+{
+cell: "row",
+background: "",
+width: "1",
+height: "1",
+pic: "https://goods6.juancdn.com/jas/180120/a/a/5a6318758150a1138076a350_270x220.png?imageMogr2/quality/85!/format/png",
+url: "https://mact.juanpi.com/sub_ptnhj?qmshareview=1&mjuanpi_wx=1",
+countdown: {
+enable_time: "",
+start_time: "",
+end_time: "",
+start_text: "",
+end_text: ""
+},
+bd_id: "21097",
+new_product: [ ],
+x_record: "7_3",
+activityname: "click_cube_block",
+server_jsonstr: "{"pit_info":"ad_id::249::block_id::6187::img_id::21097::7_3","cid":-1,"_t":1516630888,"_z":"5","ab_info":null}"
+}
+]
+},
+{
+cell: "col",
+height: "0.2037",
+width: "0.25",
+child: [
+{
+cell: "row",
+background: "",
+width: "1",
+height: "1",
+pic: "https://goods2.juancdn.com/jas/180120/2/7/5a6318978150a10fd251fda0_270x220.png?imageMogr2/quality/85!/format/png",
+url: "https://mact.juanpi.com/sub_hfcz0122?qmshareview=1&mjuanpi_wx=1",
+countdown: {
+enable_time: "",
+start_time: "",
+end_time: "",
+start_text: "",
+end_text: ""
+},
+bd_id: "21098",
+new_product: [ ],
+x_record: "7_4",
+activityname: "click_cube_block",
+server_jsonstr: "{"pit_info":"ad_id::249::block_id::6187::img_id::21098::7_4","cid":-1,"_t":1516630888,"_z":"5","ab_info":null}"
+}
+]
+}
+],
+split_line: "0",
+split_color: "",
+height: "0.2037",
+block_type: "15"
+},
+{
+show_type: "11",
+block_type: "21",
+margin_enabled: "10",
+data: {
+jump_url: "https://m.juanpi.com/act/timebuy_new?mjuanpi_wx=1",
+left_img: "https://goods2.juancdn.com/jas/171207/3/1/5a2944ea8150a142ca420159_189x120.png?imageMogr2/quality/85!/format/png",
+start_time: "1516622400",
+end_time: "1516672799",
+text: "20:00场",
+right_img: "https://goods5.juancdn.com/jas/171207/9/5/5a2944f08150a142d3551b10_195x120.png?iopcmd=convert&Q=85&dst=png",
+jump_desc: "限时秒杀",
+right_align: "0",
+bg_color: "",
+millsecond: "1",
+bd_id: "19152",
+x_record: "8_1",
+activityname: "click_cube_block",
+server_jsonstr: "{"pit_info":"ad_id::249::block_id::5808::img_id::19152::8_1","cid":-1,"_t":1516630888,"_z":"5","ab_info":null}"
+}
+},
+{
+show_type: "12",
+block_type: "22",
+width: "0",
+height: "0",
+split_line: "0",
+split_color: "",
+margin_enabled: "0",
+data: {
+child: [
+{
+type: "1",
+title: "防风抗寒保暖翻领棉衣",
+pic_url: "https://goods4.juancdn.com/goods/180114/7/8/5a5b4ec28150a1593c5dbe53_800x800.jpg?imageMogr2/quality/85!/format/jpg",
+jump_url: "https://m.juanpi.com/act/timebuy_new?mjuanpi_wx=1",
+cprice: "¥69.9",
+oprice: "¥399",
+bd_id: "21064",
+corner: "https://goods4.juancdn.com/jas/180122/6/8/5a654030a9fcf837392f462c_90x70.png?imageMogr2/quality/88!/format/png",
+position: "left",
+x_record: "9_1",
+activityname: "click_cube_block",
+server_jsonstr: "{"pit_info":"ad_id::249::block_id::6176::img_id::21064::9_1","cid":-1,"_t":1516630888,"_z":"5","ab_info":null}"
+},
+{
+type: "1",
+title: "水密码冰川矿泉补水霜",
+pic_url: "https://goods7.juancdn.com/goods/180111/d/4/5a563e6d8150a14d8f5bef8e_800x800.jpg?iopcmd=convert&Q=85&dst=jpg",
+jump_url: "https://m.juanpi.com/act/timebuy_new?mjuanpi_wx=1",
+cprice: "¥4.9",
+oprice: "¥99",
+bd_id: "21065",
+corner: "https://goods4.juancdn.com/jas/180122/6/8/5a654030a9fcf837392f462c_90x70.png?imageMogr2/quality/88!/format/png",
+position: "left",
+x_record: "9_2",
+activityname: "click_cube_block",
+server_jsonstr: "{"pit_info":"ad_id::249::block_id::6176::img_id::21065::9_2","cid":-1,"_t":1516630888,"_z":"5","ab_info":null}"
+},
+{
+type: "1",
+title: "【2份立减5元】俄罗斯紫皮糖(500g)",
+pic_url: "https://goods8.juancdn.com/goods/180116/e/4/5a5db1568150a17f464edfc6_800x800.jpg?imageMogr2/quality/85!/format/jpg",
+jump_url: "https://m.juanpi.com/act/timebuy_new?mjuanpi_wx=1",
+cprice: "¥21.8",
+oprice: "¥39.9",
+bd_id: "21066",
+corner: "https://goods4.juancdn.com/jas/180122/6/8/5a654030a9fcf837392f462c_90x70.png?imageMogr2/quality/88!/format/png",
+position: "left",
+x_record: "9_3",
+activityname: "click_cube_block",
+server_jsonstr: "{"pit_info":"ad_id::249::block_id::6176::img_id::21066::9_3","cid":-1,"_t":1516630888,"_z":"5","ab_info":null}"
+},
+{
+type: "1",
+title: "纯色前系带纯色女短靴",
+pic_url: "https://goods3.juancdn.com/goods/170903/5/4/59abcb028150a170131d2c91_800x800.jpg?iopcmd=convert&Q=85&dst=jpg",
+jump_url: "https://m.juanpi.com/act/timebuy_new?mjuanpi_wx=1",
+cprice: "¥35",
+oprice: "¥220",
+bd_id: "21067",
+corner: "https://goods4.juancdn.com/jas/180122/6/8/5a654030a9fcf837392f462c_90x70.png?imageMogr2/quality/88!/format/png",
+position: "left",
+x_record: "9_4",
+activityname: "click_cube_block",
+server_jsonstr: "{"pit_info":"ad_id::249::block_id::6176::img_id::21067::9_4","cid":-1,"_t":1516630888,"_z":"5","ab_info":null}"
+},
+{
+type: "1",
+title: "男加绒牛仔裤（两件）",
+pic_url: "https://goods2.juancdn.com/goods/171102/3/9/59fb0aa4a9fcf8225619dea2_800x800.jpg?imageMogr2/quality/85!/format/jpg",
+jump_url: "https://m.juanpi.com/act/timebuy_new?mjuanpi_wx=1",
+cprice: "¥79",
+oprice: "¥239",
+bd_id: "21068",
+corner: "https://goods4.juancdn.com/jas/180122/6/8/5a654030a9fcf837392f462c_90x70.png?imageMogr2/quality/88!/format/png",
+position: "left",
+x_record: "9_5",
+activityname: "click_cube_block",
+server_jsonstr: "{"pit_info":"ad_id::249::block_id::6176::img_id::21068::9_5","cid":-1,"_t":1516630888,"_z":"5","ab_info":null}"
+},
+{
+type: "1",
+title: "加绒弹力踩脚裤(250g",
+pic_url: "https://goods1.juancdn.com/goods/171103/0/8/59fc0fce8150a12b24406d0a_800x800.jpg?iopcmd=convert&Q=85&dst=jpg",
+jump_url: "https://m.juanpi.com/act/timebuy_new?mjuanpi_wx=1",
+cprice: "¥11.9",
+oprice: "¥69",
+bd_id: "21069",
+corner: "https://goods1.juancdn.com/jas/171226/1/7/5a41de248150a10f03115513_90x90.png?iopcmd=convert&Q=88&dst=png",
+position: "left",
+status_text: "已售罄",
+x_record: "9_6",
+activityname: "click_cube_block",
+server_jsonstr: "{"pit_info":"ad_id::249::block_id::6176::img_id::21069::9_6","cid":-1,"_t":1516630888,"_z":"5","ab_info":null}"
+}
+],
+more: ""
+}
+},
+{
+show_type: "1",
+width: "1",
+margin_enabled: "10",
+data: [
+{
+cell: "col",
+height: "0.2963",
+width: "0.5",
+child: [
+{
+cell: "row",
+background: "",
+width: "1",
+height: "1",
+pic: "https://goods4.juancdn.com/jas/180117/6/8/5a5f1f218150a12c8f5f5829_540x320.png?imageMogr2/quality/85!/format/png",
+url: "https://m.juanpi.com/channel/index?cid=2458&mjuanpi_wx=1",
+countdown: {
+enable_time: "0",
+start_time: "",
+end_time: "",
+start_text: "",
+end_text: ""
+},
+bd_id: "20001",
+new_product: [ ],
+x_record: "10_1",
+activityname: "click_cube_block",
+server_jsonstr: "{"pit_info":"ad_id::249::block_id::5959::img_id::20001::10_1","cid":-1,"_t":1516630888,"_z":"5","ab_info":null}"
+}
+]
+},
+{
+cell: "col",
+height: "0.2963",
+width: "0.5",
+child: [
+{
+cell: "row",
+background: "",
+width: "1",
+height: "1",
+pic: "https://goods3.juancdn.com/jas/180122/5/a/5a65ac45a9fcf82ae771fde7_540x320.png?iopcmd=convert&Q=85&dst=png",
+url: "https://web.juanpi.com/supermarket",
+countdown: {
+enable_time: "0",
+start_time: "",
+end_time: "",
+start_text: "",
+end_text: ""
+},
+bd_id: "20002",
+new_product: [ ],
+x_record: "10_2",
+activityname: "click_cube_block",
+server_jsonstr: "{"pit_info":"ad_id::249::block_id::5959::img_id::20002::10_2","cid":-1,"_t":1516630888,"_z":"5","ab_info":null}"
+}
+]
+}
+],
+split_line: "0",
+split_color: "",
+height: "0.2963",
+block_type: "3"
+},
+{
+show_type: "1",
+width: "1",
+margin_enabled: "0",
+data: [
+{
+cell: "col",
+height: "0.3259",
+width: "0.25",
+child: [
+{
+cell: "row",
+background: "",
+width: "1",
+height: "1",
+pic: "https://goods4.juancdn.com/jas/180110/7/7/5a55b96ea9fcf84c10099ad7_270x352.png?imageMogr2/quality/85!/format/png",
+url: "http://m.juanpi.com/cate/2354?source=&front_cid=",
+countdown: {
+enable_time: "",
+start_time: "",
+end_time: "",
+start_text: "",
+end_text: ""
+},
+bd_id: "16234",
+new_product: [ ],
+x_record: "11_1",
+activityname: "click_cube_block",
+server_jsonstr: "{"pit_info":"ad_id::249::block_id::5213::img_id::16234::11_1","cid":-1,"_t":1516630888,"_z":"5","ab_info":null}"
+}
+]
+},
+{
+cell: "col",
+height: "0.3259",
+width: "0.25",
+child: [
+{
+cell: "row",
+background: "",
+width: "1",
+height: "1",
+pic: "https://goods4.juancdn.com/jas/180117/6/5/5a5eaea28150a1152c4648aa_270x352.png?imageMogr2/quality/85!/format/png",
+url: "http://m.juanpi.com/cate/316?source=undefined&front_cid=undefined",
+countdown: {
+enable_time: "",
+start_time: "",
+end_time: "",
+start_text: "",
+end_text: ""
+},
+bd_id: "16235",
+new_product: [ ],
+x_record: "11_2",
+activityname: "click_cube_block",
+server_jsonstr: "{"pit_info":"ad_id::249::block_id::5213::img_id::16235::11_2","cid":-1,"_t":1516630888,"_z":"5","ab_info":null}"
+}
+]
+},
+{
+cell: "col",
+height: "0.3259",
+width: "0.25",
+child: [
+{
+cell: "row",
+background: "",
+width: "1",
+height: "1",
+pic: "https://goods3.juancdn.com/jas/180115/5/5/5a5c41e88150a1318957b67a_270x352.png?iopcmd=convert&Q=85&dst=png",
+url: "https://m.juanpi.com/channel/index?cid=2456&mjuanpi_wx=1",
+countdown: {
+enable_time: "",
+start_time: "",
+end_time: "",
+start_text: "",
+end_text: ""
+},
+bd_id: "16236",
+new_product: [ ],
+x_record: "11_3",
+activityname: "click_cube_block",
+server_jsonstr: "{"pit_info":"ad_id::249::block_id::5213::img_id::16236::11_3","cid":-1,"_t":1516630888,"_z":"5","ab_info":null}"
+}
+]
+},
+{
+cell: "col",
+height: "0.3259",
+width: "0.25",
+child: [
+{
+cell: "row",
+background: "",
+width: "1",
+height: "1",
+pic: "https://goods8.juancdn.com/jas/180119/e/7/5a617110a9fcf8b2c32ade48_270x352.png?imageMogr2/quality/85!/format/png",
+url: "https://m.juanpi.com/channel/index?cid=2443&mjuanpi_wx=1",
+countdown: {
+enable_time: "",
+start_time: "",
+end_time: "",
+start_text: "",
+end_text: ""
+},
+bd_id: "16237",
+new_product: [ ],
+x_record: "11_4",
+activityname: "click_cube_block",
+server_jsonstr: "{"pit_info":"ad_id::249::block_id::5213::img_id::16237::11_4","cid":-1,"_t":1516630888,"_z":"5","ab_info":null}"
+}
+]
+}
+],
+split_line: "0",
+split_color: "",
+height: "0.3259",
+block_type: "15"
+},
+{
+show_type: "1",
+width: "1",
+margin_enabled: "10",
+data: [
+{
+cell: "col",
+height: "0.1278",
+width: "1",
+child: [
+{
+cell: "row",
+background: "",
+width: "1",
+height: "1",
+pic: "https://goods8.juancdn.com/jas/171207/f/5/5a2940caa9fcf82b391478ca_1080x138.png?imageMogr2/quality/85!/format/png",
+url: "",
+countdown: {
+enable_time: "0",
+start_time: "",
+end_time: "",
+start_text: "",
+end_text: ""
+},
+bd_id: "16246",
+new_product: [ ],
+x_record: "12_1",
+activityname: "click_cube_block",
+server_jsonstr: "{"pit_info":"ad_id::249::block_id::5216::img_id::16246::12_1","cid":-1,"_t":1516630888,"_z":"5","ab_info":null}"
+}
+]
+}
+],
+split_line: "0",
+split_color: "",
+height: "0.1278",
+block_type: "2"
+},
+{
+show_type: "1",
+width: "1",
+margin_enabled: "0",
+data: [
+{
+cell: "col",
+height: "0.213",
+width: "0.25",
+child: [
+{
+cell: "row",
+background: "",
+width: "1",
+height: "1",
+pic: "https://goods7.juancdn.com/jas/180122/c/d/5a6545b38150a14cd61d8762_270x230.png?iopcmd=convert&Q=85&dst=png",
+url: "https://web.juanpi.com/brand/3632979?shop_id=3632979",
+countdown: {
+enable_time: "",
+start_time: "",
+end_time: "",
+start_text: "",
+end_text: ""
+},
+bd_id: "16226",
+new_product: [ ],
+x_record: "13_1",
+activityname: "click_cube_block",
+server_jsonstr: "{"pit_info":"ad_id::249::block_id::5211::img_id::16226::13_1","cid":-1,"_t":1516630888,"_z":"5","ab_info":null}"
+}
+]
+},
+{
+cell: "col",
+height: "0.213",
+width: "0.25",
+child: [
+{
+cell: "row",
+background: "",
+width: "1",
+height: "1",
+pic: "https://goods1.juancdn.com/jas/180122/1/3/5a653634a9fcf8b6747d8a7b_270x230.jpg?iopcmd=convert&Q=85&dst=jpg",
+url: "https://web.juanpi.com/brand/3363968?shop_id=3363968",
+countdown: {
+enable_time: "",
+start_time: "",
+end_time: "",
+start_text: "",
+end_text: ""
+},
+bd_id: "16227",
+new_product: [ ],
+x_record: "13_2",
+activityname: "click_cube_block",
+server_jsonstr: "{"pit_info":"ad_id::249::block_id::5211::img_id::16227::13_2","cid":-1,"_t":1516630888,"_z":"5","ab_info":null}"
+}
+]
+},
+{
+cell: "col",
+height: "0.213",
+width: "0.25",
+child: [
+{
+cell: "row",
+background: "",
+width: "1",
+height: "1",
+pic: "https://goods3.juancdn.com/jas/180122/4/6/5a6543348150a123c2044531_270x230.png?iopcmd=convert&Q=85&dst=png",
+url: "https://web.juanpi.com/brand/3981992?shop_id=3981992",
+countdown: {
+enable_time: "",
+start_time: "",
+end_time: "",
+start_text: "",
+end_text: ""
+},
+bd_id: "16228",
+new_product: [ ],
+x_record: "13_3",
+activityname: "click_cube_block",
+server_jsonstr: "{"pit_info":"ad_id::249::block_id::5211::img_id::16228::13_3","cid":-1,"_t":1516630888,"_z":"5","ab_info":null}"
+}
+]
+},
+{
+cell: "col",
+height: "0.213",
+width: "0.25",
+child: [
+{
+cell: "row",
+background: "",
+width: "1",
+height: "1",
+pic: "https://goods3.juancdn.com/jas/180122/5/7/5a6540a5a9fcf837c53cc27b_270x230.jpg?iopcmd=convert&Q=85&dst=jpg",
+url: "https://mact.juanpi.com/chxgxn?mjuanpi_wx=1",
+countdown: {
+enable_time: "",
+start_time: "",
+end_time: "",
+start_text: "",
+end_text: ""
+},
+bd_id: "16229",
+new_product: [ ],
+x_record: "13_4",
+activityname: "click_cube_block",
+server_jsonstr: "{"pit_info":"ad_id::249::block_id::5211::img_id::16229::13_4","cid":-1,"_t":1516630888,"_z":"5","ab_info":null}"
+}
+]
+}
+],
+split_line: "3",
+split_color: "",
+height: "0.213",
+block_type: "6"
+},
+{
+show_type: "1",
+width: "1",
+margin_enabled: "0",
+data: [
+{
+cell: "col",
+height: "0.213",
+width: "0.25",
+child: [
+{
+cell: "row",
+background: "",
+width: "1",
+height: "1",
+pic: "https://goods6.juancdn.com/jas/180122/b/9/5a655ca38150a1095809e424_270x230.png?imageMogr2/quality/85!/format/png",
+url: "https://web.juanpi.com/brand/891769?shop_id=3723911",
+countdown: {
+enable_time: "",
+start_time: "",
+end_time: "",
+start_text: "",
+end_text: ""
+},
+bd_id: "16230",
+new_product: [ ],
+x_record: "14_1",
+activityname: "click_cube_block",
+server_jsonstr: "{"pit_info":"ad_id::249::block_id::5212::img_id::16230::14_1","cid":-1,"_t":1516630888,"_z":"5","ab_info":null}"
+}
+]
+},
+{
+cell: "col",
+height: "0.213",
+width: "0.25",
+child: [
+{
+cell: "row",
+background: "",
+width: "1",
+height: "1",
+pic: "https://goods2.juancdn.com/jas/180109/3/0/5a54380ba9fcf8b0d039cf18_270x230.png?imageMogr2/quality/85!/format/png",
+url: "https://web.juanpi.com/brand/3447986?shop_id=3447986",
+countdown: {
+enable_time: "",
+start_time: "",
+end_time: "",
+start_text: "",
+end_text: ""
+},
+bd_id: "16231",
+new_product: [ ],
+x_record: "14_2",
+activityname: "click_cube_block",
+server_jsonstr: "{"pit_info":"ad_id::249::block_id::5212::img_id::16231::14_2","cid":-1,"_t":1516630888,"_z":"5","ab_info":null}"
+}
+]
+},
+{
+cell: "col",
+height: "0.213",
+width: "0.25",
+child: [
+{
+cell: "row",
+background: "",
+width: "1",
+height: "1",
+pic: "https://goods8.juancdn.com/jas/171025/e/b/59f00006a9fcf8479e4d2e8c_270x230.png?imageMogr2/quality/85!/format/png",
+url: "https://mact.juanpi.com/sub_smnhjzhc0122?mjuanpi_wx=1",
+countdown: {
+enable_time: "",
+start_time: "",
+end_time: "",
+start_text: "",
+end_text: ""
+},
+bd_id: "16232",
+new_product: [ ],
+x_record: "14_3",
+activityname: "click_cube_block",
+server_jsonstr: "{"pit_info":"ad_id::249::block_id::5212::img_id::16232::14_3","cid":-1,"_t":1516630888,"_z":"5","ab_info":null}"
+}
+]
+},
+{
+cell: "col",
+height: "0.213",
+width: "0.25",
+child: [
+{
+cell: "row",
+background: "",
+width: "1",
+height: "1",
+pic: "https://goods8.juancdn.com/jas/180122/f/6/5a653aa08150a123c204452d_270x230.png?imageMogr2/quality/85!/format/png",
+url: "https://web.juanpi.com/brand/3972906?shop_id=3972906",
+countdown: {
+enable_time: "",
+start_time: "",
+end_time: "",
+start_text: "",
+end_text: ""
+},
+bd_id: "16233",
+new_product: [ ],
+x_record: "14_4",
+activityname: "click_cube_block",
+server_jsonstr: "{"pit_info":"ad_id::249::block_id::5212::img_id::16233::14_4","cid":-1,"_t":1516630888,"_z":"5","ab_info":null}"
+}
+]
+}
+],
+split_line: "3",
+split_color: "",
+height: "0.213",
+block_type: "6"
+},
+{
+show_type: "1",
+width: "1",
+margin_enabled: "10",
+data: [
+{
+cell: "col",
+height: "0.3259",
+width: "0.25",
+child: [
+{
+cell: "row",
+background: "",
+width: "1",
+height: "1",
+pic: "https://goods7.juancdn.com/jas/171226/c/7/5a41bab0a9fcf845241fb5ad_270x352.png?iopcmd=convert&Q=85&dst=png",
+url: "https://m.juanpi.com/channel/index?cid=2448&mjuanpi_wx=1",
+countdown: {
+enable_time: "",
+start_time: "",
+end_time: "",
+start_text: "",
+end_text: ""
+},
+bd_id: "20489",
+new_product: [ ],
+x_record: "15_1",
+activityname: "click_cube_block",
+server_jsonstr: "{"pit_info":"ad_id::249::block_id::6047::img_id::20489::15_1","cid":-1,"_t":1516630888,"_z":"5","ab_info":null}"
+}
+]
+},
+{
+cell: "col",
+height: "0.3259",
+width: "0.25",
+child: [
+{
+cell: "row",
+background: "",
+width: "1",
+height: "1",
+pic: "https://goods1.juancdn.com/jas/180115/1/f/5a5c496e8150a133aa2f5f6d_270x352.png?iopcmd=convert&Q=85&dst=png",
+url: "https://m.juanpi.com/channel/index?cid=2447&default_tab=1&mjuanpi_wx=1",
+countdown: {
+enable_time: "",
+start_time: "",
+end_time: "",
+start_text: "",
+end_text: ""
+},
+bd_id: "20490",
+new_product: [ ],
+x_record: "15_2",
+activityname: "click_cube_block",
+server_jsonstr: "{"pit_info":"ad_id::249::block_id::6047::img_id::20490::15_2","cid":-1,"_t":1516630888,"_z":"5","ab_info":null}"
+}
+]
+},
+{
+cell: "col",
+height: "0.3259",
+width: "0.25",
+child: [
+{
+cell: "row",
+background: "",
+width: "1",
+height: "1",
+pic: "https://goods2.juancdn.com/jas/180119/3/f/5a61a851a9fcf8a85016fb37_270x352.png?imageMogr2/quality/85!/format/png",
+url: "http://m.juanpi.com/cate/314?source=undefined&front_cid=undefined",
+countdown: {
+enable_time: "",
+start_time: "",
+end_time: "",
+start_text: "",
+end_text: ""
+},
+bd_id: "20491",
+new_product: [ ],
+x_record: "15_3",
+activityname: "click_cube_block",
+server_jsonstr: "{"pit_info":"ad_id::249::block_id::6047::img_id::20491::15_3","cid":-1,"_t":1516630888,"_z":"5","ab_info":null}"
+}
+]
+},
+{
+cell: "col",
+height: "0.3259",
+width: "0.25",
+child: [
+{
+cell: "row",
+background: "",
+width: "1",
+height: "1",
+pic: "https://goods8.juancdn.com/jas/180119/e/8/5a6158298150a1520572233c_270x352.png?imageMogr2/quality/85!/format/png",
+url: "https://m.juanpi.com/channel/index?cid=2461&default_tab=1&mjuanpi_wx=1",
+countdown: {
+enable_time: "",
+start_time: "",
+end_time: "",
+start_text: "",
+end_text: ""
+},
+bd_id: "20492",
+new_product: [ ],
+x_record: "15_4",
+activityname: "click_cube_block",
+server_jsonstr: "{"pit_info":"ad_id::249::block_id::6047::img_id::20492::15_4","cid":-1,"_t":1516630888,"_z":"5","ab_info":null}"
+}
+]
+}
+],
+split_line: "0",
+split_color: "",
+height: "0.3259",
+block_type: "15"
+},
+{
+show_type: "1",
+width: "1",
+margin_enabled: "0",
+data: [
+{
+cell: "col",
+height: "0.3259",
+width: "0.25",
+child: [
+{
+cell: "row",
+background: "",
+width: "1",
+height: "1",
+pic: "https://goods4.juancdn.com/jas/180110/7/a/5a557e41a9fcf8683529ad82_270x352.png?imageMogr2/quality/85!/format/png",
+url: "https://m.juanpi.com/channel/index?cid=2415&mjuanpi_wx=1",
+countdown: {
+enable_time: "",
+start_time: "",
+end_time: "",
+start_text: "",
+end_text: ""
+},
+bd_id: "18782",
+new_product: [ ],
+x_record: "16_1",
+activityname: "click_cube_block",
+server_jsonstr: "{"pit_info":"ad_id::249::block_id::5745::img_id::18782::16_1","cid":-1,"_t":1516630888,"_z":"5","ab_info":null}"
+}
+]
+},
+{
+cell: "col",
+height: "0.3259",
+width: "0.25",
+child: [
+{
+cell: "row",
+background: "",
+width: "1",
+height: "1",
+pic: "https://goods2.juancdn.com/jas/180118/3/5/5a605b94a9fcf8204b544313_270x352.png?imageMogr2/quality/85!/format/png",
+url: "https://m.juanpi.com/channel/index?cid=2445&default_tab=1&mjuanpi_wx=1",
+countdown: {
+enable_time: "",
+start_time: "",
+end_time: "",
+start_text: "",
+end_text: ""
+},
+bd_id: "18783",
+new_product: [ ],
+x_record: "16_2",
+activityname: "click_cube_block",
+server_jsonstr: "{"pit_info":"ad_id::249::block_id::5745::img_id::18783::16_2","cid":-1,"_t":1516630888,"_z":"5","ab_info":null}"
+}
+]
+},
+{
+cell: "col",
+height: "0.3259",
+width: "0.25",
+child: [
+{
+cell: "row",
+background: "",
+width: "1",
+height: "1",
+pic: "https://goods5.juancdn.com/jas/180122/9/5/5a653b3da9fcf83a0e789935_270x352.png?iopcmd=convert&Q=85&dst=png",
+url: "https://m.juanpi.com/channel/index?cid=2444&mjuanpi_wx=1",
+countdown: {
+enable_time: "",
+start_time: "",
+end_time: "",
+start_text: "",
+end_text: ""
+},
+bd_id: "18784",
+new_product: [ ],
+x_record: "16_3",
+activityname: "click_cube_block",
+server_jsonstr: "{"pit_info":"ad_id::249::block_id::5745::img_id::18784::16_3","cid":-1,"_t":1516630888,"_z":"5","ab_info":null}"
+}
+]
+},
+{
+cell: "col",
+height: "0.3259",
+width: "0.25",
+child: [
+{
+cell: "row",
+background: "",
+width: "1",
+height: "1",
+pic: "https://goods6.juancdn.com/jas/171207/b/6/5a293f83a9fcf82ad55fba35_270x350.png?imageMogr2/quality/85!/format/png",
+url: "https://mact.juanpi.com/zxjfm?mjuanpi_wx=1",
+countdown: {
+enable_time: "",
+start_time: "",
+end_time: "",
+start_text: "",
+end_text: ""
+},
+bd_id: "18785",
+new_product: [ ],
+x_record: "16_4",
+activityname: "click_cube_block",
+server_jsonstr: "{"pit_info":"ad_id::249::block_id::5745::img_id::18785::16_4","cid":-1,"_t":1516630888,"_z":"5","ab_info":null}"
+}
+]
+}
+],
+split_line: "0",
+split_color: "",
+height: "0.3259",
+block_type: "15"
+}
+],
+block_background_color: "",
+block_background_image: ""
+}
+],
+show_index: "2"
+},
+menuInfo: {
+app_menu: {
+menulist: [
+{
+title: "首页",
+item: "all",
+type: "1",
+show_type: "3",
+act_icon: "https://s1.juancdn.com/bao/171127/7/0/5a1bce9f8150a16b8658e657_72x72.png",
+bg_icon: "https://s1.juancdn.com/bao/171127/6/0/5a1bce9a8150a16b4e766a8d_72x72.png",
+act_color: "#FF464E",
+color: "#999999",
+act_bg_color: "",
+bg_color: "",
+top_icon: "",
+top_text_color: "",
+cid: "1",
+sel_type: "2",
+is_top_sub: "0",
+right_location: {
+item: "cate",
+pic: "https://goods3.juancdn.com/bao/170421/4/9/58f9f3bca43d1f15ff678b8c_132x132.png",
+url: "https://m.juanpi.com/cate/index"
+},
+left_location: {
+item: "",
+pic: "",
+url: ""
+},
+search_logo: "https://s1.juancdn.com/bao/170926/8/2/59ca3863a9fcf823cd42cfcb_84x60.png",
+use_keyword: "0",
+menu_bg_color: "",
+cursor_color: "",
+top_bg_color: "",
+top_text: "首页",
+wh_ratio: "0",
+catname: "newest_zhe",
+style: "1",
+link: "https://m.juanpi.com/",
+hide_ads: "0",
+search_info: {
+open: "1",
+keyword: "百万优惠券疯狂派送",
+text_color: "#999999",
+use_keyword: "1",
+search_logo: "https://s1.juancdn.com/bao/170926/8/2/59ca3863a9fcf823cd42cfcb_84x60.png",
+search_bg_color: "",
+jump_url: "https://m.juanpi.com/keywords"
+},
+seldefault: "1",
+no_tab_data: "0",
+click_name: "click_navigation",
+subtab: [
+{
+title: "首页",
+item: "all",
+type: "10",
+show_type: "2",
+act_icon: "",
+bg_icon: "",
+act_color: "",
+color: "",
+act_bg_color: "",
+bg_color: "",
+cid: "1",
+sel_type: "2",
+wh_ratio: "",
+catname: "newest_zhe",
+style: "1",
+link: "https://m.juanpi.com/",
+hide_ads: "0",
+search_info: {
+open: "0"
+},
+child_tab: [
+{
+title: "精选专场",
+type: "1",
+item: "tab_hpzc",
+link: "https://m.juanpi.com/"
+},
+{
+title: "精选单品",
+type: "1",
+item: "tab_hpdp",
+link: "https://m.juanpi.com/"
+}
+],
+seldefault: "1"
+}
+]
+},
+{
+title: "会员超市",
+item: "",
+type: "4",
+show_type: "3",
+act_icon: "https://s1.juancdn.com/bao/180112/9/9/5a589e01a9fcf88dd41168b2_72x72.png",
+bg_icon: "https://s1.juancdn.com/bao/180112/2/9/5a589dfea9fcf882be25fb4c_72x72.png",
+act_color: "#FF464E",
+color: "",
+act_bg_color: "",
+bg_color: "",
+top_icon: "https://s1.juancdn.com/bao/170310/9/9/58c27c2da43d1f3eb84a1af6_420x132.png",
+top_text_color: "",
+cid: "",
+sel_type: "3",
+is_top_sub: "0",
+right_location: {
+item: "cate",
+pic: "https://goods3.juancdn.com/bao/170421/4/9/58f9f3bca43d1f15ff678b8c_132x132.png",
+url: "https://m.juanpi.com/cate/index"
+},
+left_location: {
+item: "",
+pic: "",
+url: ""
+},
+search_logo: "",
+use_keyword: "0",
+menu_bg_color: "",
+cursor_color: "",
+top_bg_color: "",
+top_text: "会员超市",
+wh_ratio: "0",
+catname: "",
+link: "https://web.juanpi.com/supermarket",
+hide_ads: "0",
+search_info: {
+open: "0"
+},
+seldefault: "0",
+no_tab_data: "1",
+click_name: "click_navigation",
+subtab: [
+{
+title: "会员超市",
+item: "",
+type: "4",
+show_type: "3",
+act_icon: "https://s1.juancdn.com/bao/180112/9/9/5a589e01a9fcf88dd41168b2_72x72.png",
+bg_icon: "https://s1.juancdn.com/bao/180112/2/9/5a589dfea9fcf882be25fb4c_72x72.png",
+act_color: "#FF464E",
+color: "",
+act_bg_color: "",
+bg_color: "",
+top_icon: "https://s1.juancdn.com/bao/170310/9/9/58c27c2da43d1f3eb84a1af6_420x132.png",
+top_text_color: "",
+cid: "",
+sel_type: "3",
+is_top_sub: "0",
+right_location: {
+item: "cate",
+pic: "https://goods3.juancdn.com/bao/170421/4/9/58f9f3bca43d1f15ff678b8c_132x132.png",
+url: "https://m.juanpi.com/cate/index"
+},
+left_location: {
+item: "",
+pic: "",
+url: ""
+},
+search_logo: "",
+use_keyword: "0",
+menu_bg_color: "",
+cursor_color: "",
+top_bg_color: "",
+top_text: "会员超市",
+wh_ratio: "0",
+catname: "",
+link: "https://web.juanpi.com/supermarket",
+hide_ads: "0",
+search_info: {
+open: "0"
+},
+seldefault: "0"
+}
+]
+},
+{
+title: "分类",
+item: "",
+type: "4",
+show_type: "3",
+act_icon: "https://s1.juancdn.com/bao/171127/c/3/5a1bcef5a9fcf842f140cb1d_72x72.png",
+bg_icon: "https://s1.juancdn.com/bao/171127/9/6/5a1bcef08150a176c87f92be_72x72.png",
+act_color: "#FF464E",
+color: "",
+act_bg_color: "",
+bg_color: "",
+top_icon: "https://s1.juancdn.com/bao/160721/5/c/579086a3151ad1d6198b456e_222x132.png",
+top_text_color: "",
+cid: "",
+sel_type: "3",
+is_top_sub: "0",
+right_location: {
+item: "cate",
+pic: "https://goods3.juancdn.com/bao/170421/4/9/58f9f3bca43d1f15ff678b8c_132x132.png",
+url: "https://m.juanpi.com/cate/index"
+},
+left_location: {
+item: "",
+pic: "",
+url: ""
+},
+search_logo: "",
+use_keyword: "0",
+menu_bg_color: "",
+cursor_color: "",
+top_bg_color: "",
+top_text: "分类",
+wh_ratio: "0",
+catname: "",
+link: "https://m.juanpi.com/cate/index",
+hide_ads: "0",
+search_info: {
+open: "0"
+},
+seldefault: "0",
+no_tab_data: "1",
+click_name: "click_navigation",
+subtab: [
+{
+title: "分类",
+item: "",
+type: "4",
+show_type: "3",
+act_icon: "https://s1.juancdn.com/bao/171127/c/3/5a1bcef5a9fcf842f140cb1d_72x72.png",
+bg_icon: "https://s1.juancdn.com/bao/171127/9/6/5a1bcef08150a176c87f92be_72x72.png",
+act_color: "#FF464E",
+color: "",
+act_bg_color: "",
+bg_color: "",
+top_icon: "https://s1.juancdn.com/bao/160721/5/c/579086a3151ad1d6198b456e_222x132.png",
+top_text_color: "",
+cid: "",
+sel_type: "3",
+is_top_sub: "0",
+right_location: {
+item: "cate",
+pic: "https://goods3.juancdn.com/bao/170421/4/9/58f9f3bca43d1f15ff678b8c_132x132.png",
+url: "https://m.juanpi.com/cate/index"
+},
+left_location: {
+item: "",
+pic: "",
+url: ""
+},
+search_logo: "",
+use_keyword: "0",
+menu_bg_color: "",
+cursor_color: "",
+top_bg_color: "",
+top_text: "分类",
+wh_ratio: "0",
+catname: "",
+link: "https://m.juanpi.com/cate/index",
+hide_ads: "0",
+search_info: {
+open: "0"
+},
+seldefault: "0"
+}
+]
+},
+{
+title: "购物车",
+item: "c6",
+type: "6",
+show_type: "3",
+act_icon: "https://s1.juancdn.com/bao/170411/7/3/58ecaebba43d1f5e6b2f0d02_72x72.png",
+bg_icon: "https://s1.juancdn.com/bao/170411/3/a/58ecaebaa43d1f6f166e6882_72x72.png",
+act_color: "#FF464E",
+color: "",
+act_bg_color: "",
+bg_color: "",
+top_icon: "",
+top_text_color: "",
+cid: "",
+sel_type: "2",
+is_top_sub: "0",
+search_logo: "",
+use_keyword: "0",
+top_text: "购物车",
+wh_ratio: "0",
+catname: "",
+link: "https://m.juanpi.com/cart/",
+hide_ads: "0",
+search_info: {
+open: "0"
+},
+left_location: {
+item: "",
+pic: "",
+url: ""
+},
+right_location: {
+item: "cate",
+pic: "https://goods3.juancdn.com/bao/170421/4/9/58f9f3bca43d1f15ff678b8c_132x132.png",
+url: "https://m.juanpi.com/cate/index"
+},
+seldefault: "0",
+no_tab_data: "1",
+click_name: "click_navigation",
+subtab: [
+{
+title: "购物车",
+item: "c6",
+type: "6",
+show_type: "3",
+act_icon: "https://s1.juancdn.com/bao/170411/7/3/58ecaebba43d1f5e6b2f0d02_72x72.png",
+bg_icon: "https://s1.juancdn.com/bao/170411/3/a/58ecaebaa43d1f6f166e6882_72x72.png",
+act_color: "#FF464E",
+color: "",
+act_bg_color: "",
+bg_color: "",
+top_icon: "",
+top_text_color: "",
+cid: "",
+sel_type: "2",
+is_top_sub: "0",
+search_logo: "",
+use_keyword: "0",
+top_text: "购物车",
+wh_ratio: "0",
+catname: "",
+link: "https://m.juanpi.com/cart/",
+hide_ads: "0",
+search_info: {
+open: "0"
+},
+left_location: {
+item: "",
+pic: "",
+url: ""
+},
+right_location: {
+item: "cate",
+pic: "https://goods3.juancdn.com/bao/170421/4/9/58f9f3bca43d1f15ff678b8c_132x132.png",
+url: "https://m.juanpi.com/cate/index"
+},
+seldefault: "0"
+}
+]
+},
+{
+title: "我的卷皮",
+item: "p7",
+type: "7",
+show_type: "3",
+act_icon: "https://s1.juancdn.com/bao/170411/0/d/58ecaec6a43d1f5e7a188a96_72x72.png",
+bg_icon: "https://s1.juancdn.com/bao/170411/9/7/58ecaec4a43d1f5e7c6dc860_72x72.png",
+act_color: "#FF464E",
+color: "",
+act_bg_color: "",
+bg_color: "",
+top_icon: "",
+top_text_color: "",
+cid: "",
+sel_type: "2",
+is_top_sub: "0",
+search_logo: "",
+use_keyword: "0",
+top_text: "我的卷皮",
+wh_ratio: "0",
+catname: "",
+link: "https://m.juanpi.com/user/",
+hide_ads: "0",
+search_info: {
+open: "0"
+},
+left_location: {
+item: "",
+pic: "",
+url: ""
+},
+right_location: {
+item: "cate",
+pic: "https://goods3.juancdn.com/bao/170421/4/9/58f9f3bca43d1f15ff678b8c_132x132.png",
+url: "https://m.juanpi.com/cate/index"
+},
+seldefault: "0",
+no_tab_data: "1",
+click_name: "click_navigation",
+subtab: [
+{
+title: "我的卷皮",
+item: "p7",
+type: "7",
+show_type: "3",
+act_icon: "https://s1.juancdn.com/bao/170411/0/d/58ecaec6a43d1f5e7a188a96_72x72.png",
+bg_icon: "https://s1.juancdn.com/bao/170411/9/7/58ecaec4a43d1f5e7c6dc860_72x72.png",
+act_color: "#FF464E",
+color: "",
+act_bg_color: "",
+bg_color: "",
+top_icon: "",
+top_text_color: "",
+cid: "",
+sel_type: "2",
+is_top_sub: "0",
+search_logo: "",
+use_keyword: "0",
+top_text: "我的卷皮",
+wh_ratio: "0",
+catname: "",
+link: "https://m.juanpi.com/user/",
+hide_ads: "0",
+search_info: {
+open: "0"
+},
+left_location: {
+item: "",
+pic: "",
+url: ""
+},
+right_location: {
+item: "cate",
+pic: "https://goods3.juancdn.com/bao/170421/4/9/58f9f3bca43d1f15ff678b8c_132x132.png",
+url: "https://m.juanpi.com/cate/index"
+},
+seldefault: "0"
+}
+]
+}
+],
+bottom_bg_pic: "",
+version: "1000111516600897",
+server_jsonstr: "{"ab_info":null}"
+},
+pre_app_menu: {
+menulist: [
+{
+title: "首页",
+item: "all",
+type: "1",
+show_type: "3",
+act_icon: "https://s1.juancdn.com/bao/171127/7/0/5a1bce9f8150a16b8658e657_72x72.png",
+bg_icon: "https://s1.juancdn.com/bao/171127/6/0/5a1bce9a8150a16b4e766a8d_72x72.png",
+act_color: "#FF464E",
+color: "#999999",
+act_bg_color: "",
+bg_color: "",
+top_icon: "",
+top_text_color: "",
+cid: "1",
+sel_type: "2",
+is_top_sub: "0",
+right_location: {
+item: "cate",
+pic: "https://goods3.juancdn.com/bao/170421/4/9/58f9f3bca43d1f15ff678b8c_132x132.png",
+url: "https://m.juanpi.com/cate/index"
+},
+left_location: {
+item: "",
+pic: "",
+url: ""
+},
+search_logo: "https://s1.juancdn.com/bao/170926/8/2/59ca3863a9fcf823cd42cfcb_84x60.png",
+use_keyword: "0",
+menu_bg_color: "",
+cursor_color: "",
+top_bg_color: "",
+top_text: "首页",
+wh_ratio: "0",
+catname: "newest_zhe",
+style: "1",
+link: "https://m.juanpi.com/",
+hide_ads: "0",
+search_info: {
+open: "1",
+keyword: "百万优惠券疯狂派送",
+text_color: "#999999",
+use_keyword: "1",
+search_logo: "https://s1.juancdn.com/bao/170926/8/2/59ca3863a9fcf823cd42cfcb_84x60.png",
+search_bg_color: "",
+jump_url: "https://m.juanpi.com/keywords"
+},
+seldefault: "1",
+no_tab_data: "0",
+click_name: "click_navigation",
+subtab: [
+{
+title: "首页",
+item: "all",
+type: "10",
+show_type: "2",
+act_icon: "",
+bg_icon: "",
+act_color: "",
+color: "",
+act_bg_color: "",
+bg_color: "",
+cid: "1",
+sel_type: "2",
+wh_ratio: "",
+catname: "newest_zhe",
+style: "1",
+link: "https://m.juanpi.com/",
+hide_ads: "0",
+search_info: {
+open: "0"
+},
+child_tab: [
+{
+title: "精选专场",
+type: "1",
+item: "tab_hpzc",
+link: "https://m.juanpi.com/"
+},
+{
+title: "精选单品",
+type: "1",
+item: "tab_hpdp",
+link: "https://m.juanpi.com/"
+}
+],
+seldefault: "1"
+}
+]
+},
+{
+title: "会员超市",
+item: "",
+type: "4",
+show_type: "3",
+act_icon: "https://s1.juancdn.com/bao/180112/9/9/5a589e01a9fcf88dd41168b2_72x72.png",
+bg_icon: "https://s1.juancdn.com/bao/180112/2/9/5a589dfea9fcf882be25fb4c_72x72.png",
+act_color: "#FF464E",
+color: "",
+act_bg_color: "",
+bg_color: "",
+top_icon: "https://s1.juancdn.com/bao/170310/9/9/58c27c2da43d1f3eb84a1af6_420x132.png",
+top_text_color: "",
+cid: "",
+sel_type: "3",
+is_top_sub: "0",
+right_location: {
+item: "cate",
+pic: "https://goods3.juancdn.com/bao/170421/4/9/58f9f3bca43d1f15ff678b8c_132x132.png",
+url: "https://m.juanpi.com/cate/index"
+},
+left_location: {
+item: "",
+pic: "",
+url: ""
+},
+search_logo: "",
+use_keyword: "0",
+menu_bg_color: "",
+cursor_color: "",
+top_bg_color: "",
+top_text: "会员超市",
+wh_ratio: "0",
+catname: "",
+link: "https://web.juanpi.com/supermarket",
+hide_ads: "0",
+search_info: {
+open: "0"
+},
+seldefault: "0",
+no_tab_data: "1",
+click_name: "click_navigation",
+subtab: [
+{
+title: "会员超市",
+item: "",
+type: "4",
+show_type: "3",
+act_icon: "https://s1.juancdn.com/bao/180112/9/9/5a589e01a9fcf88dd41168b2_72x72.png",
+bg_icon: "https://s1.juancdn.com/bao/180112/2/9/5a589dfea9fcf882be25fb4c_72x72.png",
+act_color: "#FF464E",
+color: "",
+act_bg_color: "",
+bg_color: "",
+top_icon: "https://s1.juancdn.com/bao/170310/9/9/58c27c2da43d1f3eb84a1af6_420x132.png",
+top_text_color: "",
+cid: "",
+sel_type: "3",
+is_top_sub: "0",
+right_location: {
+item: "cate",
+pic: "https://goods3.juancdn.com/bao/170421/4/9/58f9f3bca43d1f15ff678b8c_132x132.png",
+url: "https://m.juanpi.com/cate/index"
+},
+left_location: {
+item: "",
+pic: "",
+url: ""
+},
+search_logo: "",
+use_keyword: "0",
+menu_bg_color: "",
+cursor_color: "",
+top_bg_color: "",
+top_text: "会员超市",
+wh_ratio: "0",
+catname: "",
+link: "https://web.juanpi.com/supermarket",
+hide_ads: "0",
+search_info: {
+open: "0"
+},
+seldefault: "0"
+}
+]
+},
+{
+title: "分类",
+item: "",
+type: "4",
+show_type: "3",
+act_icon: "https://s1.juancdn.com/bao/171127/c/3/5a1bcef5a9fcf842f140cb1d_72x72.png",
+bg_icon: "https://s1.juancdn.com/bao/171127/9/6/5a1bcef08150a176c87f92be_72x72.png",
+act_color: "#FF464E",
+color: "",
+act_bg_color: "",
+bg_color: "",
+top_icon: "https://s1.juancdn.com/bao/160721/5/c/579086a3151ad1d6198b456e_222x132.png",
+top_text_color: "",
+cid: "",
+sel_type: "3",
+is_top_sub: "0",
+right_location: {
+item: "cate",
+pic: "https://goods3.juancdn.com/bao/170421/4/9/58f9f3bca43d1f15ff678b8c_132x132.png",
+url: "https://m.juanpi.com/cate/index"
+},
+left_location: {
+item: "",
+pic: "",
+url: ""
+},
+search_logo: "",
+use_keyword: "0",
+menu_bg_color: "",
+cursor_color: "",
+top_bg_color: "",
+top_text: "分类",
+wh_ratio: "0",
+catname: "",
+link: "https://m.juanpi.com/cate/index",
+hide_ads: "0",
+search_info: {
+open: "0"
+},
+seldefault: "0",
+no_tab_data: "1",
+click_name: "click_navigation",
+subtab: [
+{
+title: "分类",
+item: "",
+type: "4",
+show_type: "3",
+act_icon: "https://s1.juancdn.com/bao/171127/c/3/5a1bcef5a9fcf842f140cb1d_72x72.png",
+bg_icon: "https://s1.juancdn.com/bao/171127/9/6/5a1bcef08150a176c87f92be_72x72.png",
+act_color: "#FF464E",
+color: "",
+act_bg_color: "",
+bg_color: "",
+top_icon: "https://s1.juancdn.com/bao/160721/5/c/579086a3151ad1d6198b456e_222x132.png",
+top_text_color: "",
+cid: "",
+sel_type: "3",
+is_top_sub: "0",
+right_location: {
+item: "cate",
+pic: "https://goods3.juancdn.com/bao/170421/4/9/58f9f3bca43d1f15ff678b8c_132x132.png",
+url: "https://m.juanpi.com/cate/index"
+},
+left_location: {
+item: "",
+pic: "",
+url: ""
+},
+search_logo: "",
+use_keyword: "0",
+menu_bg_color: "",
+cursor_color: "",
+top_bg_color: "",
+top_text: "分类",
+wh_ratio: "0",
+catname: "",
+link: "https://m.juanpi.com/cate/index",
+hide_ads: "0",
+search_info: {
+open: "0"
+},
+seldefault: "0"
+}
+]
+},
+{
+title: "购物车",
+item: "c6",
+type: "6",
+show_type: "3",
+act_icon: "https://s1.juancdn.com/bao/170411/7/3/58ecaebba43d1f5e6b2f0d02_72x72.png",
+bg_icon: "https://s1.juancdn.com/bao/170411/3/a/58ecaebaa43d1f6f166e6882_72x72.png",
+act_color: "#FF464E",
+color: "",
+act_bg_color: "",
+bg_color: "",
+top_icon: "",
+top_text_color: "",
+cid: "",
+sel_type: "2",
+is_top_sub: "0",
+search_logo: "",
+use_keyword: "0",
+top_text: "购物车",
+wh_ratio: "0",
+catname: "",
+link: "https://m.juanpi.com/cart/",
+hide_ads: "0",
+search_info: {
+open: "0"
+},
+left_location: {
+item: "",
+pic: "",
+url: ""
+},
+right_location: {
+item: "cate",
+pic: "https://goods3.juancdn.com/bao/170421/4/9/58f9f3bca43d1f15ff678b8c_132x132.png",
+url: "https://m.juanpi.com/cate/index"
+},
+seldefault: "0",
+no_tab_data: "1",
+click_name: "click_navigation",
+subtab: [
+{
+title: "购物车",
+item: "c6",
+type: "6",
+show_type: "3",
+act_icon: "https://s1.juancdn.com/bao/170411/7/3/58ecaebba43d1f5e6b2f0d02_72x72.png",
+bg_icon: "https://s1.juancdn.com/bao/170411/3/a/58ecaebaa43d1f6f166e6882_72x72.png",
+act_color: "#FF464E",
+color: "",
+act_bg_color: "",
+bg_color: "",
+top_icon: "",
+top_text_color: "",
+cid: "",
+sel_type: "2",
+is_top_sub: "0",
+search_logo: "",
+use_keyword: "0",
+top_text: "购物车",
+wh_ratio: "0",
+catname: "",
+link: "https://m.juanpi.com/cart/",
+hide_ads: "0",
+search_info: {
+open: "0"
+},
+left_location: {
+item: "",
+pic: "",
+url: ""
+},
+right_location: {
+item: "cate",
+pic: "https://goods3.juancdn.com/bao/170421/4/9/58f9f3bca43d1f15ff678b8c_132x132.png",
+url: "https://m.juanpi.com/cate/index"
+},
+seldefault: "0"
+}
+]
+},
+{
+title: "我的卷皮",
+item: "p7",
+type: "7",
+show_type: "3",
+act_icon: "https://s1.juancdn.com/bao/170411/0/d/58ecaec6a43d1f5e7a188a96_72x72.png",
+bg_icon: "https://s1.juancdn.com/bao/170411/9/7/58ecaec4a43d1f5e7c6dc860_72x72.png",
+act_color: "#FF464E",
+color: "",
+act_bg_color: "",
+bg_color: "",
+top_icon: "",
+top_text_color: "",
+cid: "",
+sel_type: "2",
+is_top_sub: "0",
+search_logo: "",
+use_keyword: "0",
+top_text: "我的卷皮",
+wh_ratio: "0",
+catname: "",
+link: "https://m.juanpi.com/user/",
+hide_ads: "0",
+search_info: {
+open: "0"
+},
+left_location: {
+item: "",
+pic: "",
+url: ""
+},
+right_location: {
+item: "cate",
+pic: "https://goods3.juancdn.com/bao/170421/4/9/58f9f3bca43d1f15ff678b8c_132x132.png",
+url: "https://m.juanpi.com/cate/index"
+},
+seldefault: "0",
+no_tab_data: "1",
+click_name: "click_navigation",
+subtab: [
+{
+title: "我的卷皮",
+item: "p7",
+type: "7",
+show_type: "3",
+act_icon: "https://s1.juancdn.com/bao/170411/0/d/58ecaec6a43d1f5e7a188a96_72x72.png",
+bg_icon: "https://s1.juancdn.com/bao/170411/9/7/58ecaec4a43d1f5e7c6dc860_72x72.png",
+act_color: "#FF464E",
+color: "",
+act_bg_color: "",
+bg_color: "",
+top_icon: "",
+top_text_color: "",
+cid: "",
+sel_type: "2",
+is_top_sub: "0",
+search_logo: "",
+use_keyword: "0",
+top_text: "我的卷皮",
+wh_ratio: "0",
+catname: "",
+link: "https://m.juanpi.com/user/",
+hide_ads: "0",
+search_info: {
+open: "0"
+},
+left_location: {
+item: "",
+pic: "",
+url: ""
+},
+right_location: {
+item: "cate",
+pic: "https://goods3.juancdn.com/bao/170421/4/9/58f9f3bca43d1f15ff678b8c_132x132.png",
+url: "https://m.juanpi.com/cate/index"
+},
+seldefault: "0"
+}
+]
+}
+],
+bottom_bg_pic: "",
+version: "1000111516600897"
+},
+full_ads: [
+{
+start_time: "1516586400",
+end_time: "1516845599",
+config: {
+type: "",
+look: "",
+pic: "https://goods2.juancdn.com/jas/180120/3/2/5a632f5e8150a121143ff854_720x1280.png",
+id: "17074",
+size: "720*1280",
+jump_url: "https://mact.juanpi.com/zhuhuichang10122?qmshareview=1&mjuanpi_wx=1"
+},
+server_jsonstr: "{"ads_id":"17074","user_group_id":"","_z":"5"}",
+is_cache: "",
+show_icon: "0",
+duration_time: "2"
+},
+{
+start_time: "1513131898",
+end_time: "1531448700",
+config: {
+type: "",
+look: "",
+pic: "https://goods3.juancdn.com/jas/171130/5/a/5a1fcc11a9fcf872622fee14_720x1280.png",
+id: "16331",
+size: "720*1280",
+jump_url: "https://mact.juanpi.com/xin?mjuanpi_wx=1"
+},
+server_jsonstr: "{"ads_id":"16331","user_group_id":"","_z":"18"}",
+is_cache: "",
+show_icon: "0",
+duration_time: "2"
+}
+],
+sidebar_ads: [
+{
+item: "all",
+ads_info: {
+start_time: "1516622400",
+end_time: "1517450400",
+sa_pic: "https://goods3.juancdn.com/jas/180122/4/5/5a65cd7e8150a17e8921a9c7_192x192.png",
+sa_id: "17109",
+sa_position: "6",
+sa_type: "1",
+sa_close_type: "2",
+jump_url: "https://mact.juanpi.com/hycsnhj?mjuanpi_wx=1",
+activity_name: "click_cube_welt",
+server_jsonstr: "{"ads_id":"17109","user_group_id":"","zyid":"5"}"
+}
+},
+{
+item: "p7",
+ads_info: {
+start_time: "1516618908",
+end_time: "1516932000",
+sa_pic: "https://goods2.juancdn.com/jas/180122/2/c/5a65c4cca9fcf8269e52da79_192x192.png",
+sa_id: "17108",
+sa_position: "6",
+sa_type: "1",
+sa_close_type: "2",
+jump_url: "qimi://juanpi?type=77&content={"title":"新会员专享","module":"Exclusive","version":"1003","params":"{\"goods_id\":\"78152929\"}","bak_url":""}",
+activity_name: "click_cube_welt",
+server_jsonstr: "{"ads_id":"17108","user_group_id":"","zyid":"1371"}"
+}
+}
+],
+pull_ads: [ ],
+dynamic_url_list: {
+qimimapi_goods_pinpai_goods: "https://mapi.juanpi.com/goods/pinpai/goods?brand_id=${brand_id}&goods_utype=${jpGoodsUtype}&platform=${jpPlatform}&app_version=${jpAppVersion}&app_name=zhe&msort=${msort}&page=${page}&user_label=${jpUSERLABEL}&price_range=${price_range}&cat_threeids=${cat_threeids}&filter_id=${filter_id}&seller_id=${seller_id}",
+qimimapi_goods_pop_detail: "https://mapi.juanpi.com/goods/pop/detail?goods_id=${goods_id}&goods_utype=${jpGoodsUtype}&platform=${jpPlatform}&app_version=${jpAppVersion}",
+qimimapi_goods_discount_detail: "https://mapi.juanpi.com/goods/discount/detail?goods_id=${goods_id}&goods_utype=${jpGoodsUtype}&platform=${jpPlatform}&app_version=${jpAppVersion}&user_label=${jpUSERLABEL}&pt_page=${pt_page}&vcartid=${jpVCARTID}&uid=${jpUid}",
+qimimapi_goods_cps_detail: "https://mapi.juanpi.com/goods/cps/detail?goods_id=${goods_id}",
+qimimapi_goods_search: "https://mapi.juanpi.com/goods/search?app_name=zhe&keyword=${keyword}&page=${page}&platform=${jpPlatform}&utm=${jpUtm}&msort=${msort}&app_version=${jpAppVersion}&item=${item}&info=${info}&price_range=${price_range}&cat_threeids=${cat_threeids}&filter_id=${filter_id}&attr_id=${attr_id}&searchsortab=${jpSEARCHSORTAB}&sxsx=${jpSXSX}",
+qimimapi_goods_spo_search: "https://mapi.juanpi.com/goods/spo/search?platform=${jpPlatform}&utm=${jpUtm}",
+qimimapi_goods_search_keywords: "https://mapi.juanpi.com/goods/search/keywords?platform=${jpPlatform}&user_group=${jpUserGroup}&zy_ids=${jpZYIDS}&item=${item}&info=${info}&price_range=${price_range}&cat_threeids=${cat_threeids}",
+qimimapi_goods_search_suggest: "https://mapi.juanpi.com/goods/search/suggest?keyword=${keyword}&app_version=${jpAppVersion}&smartbox=${jpSMARTBOX}",
+qimimapi_goods_pinpai_list: "https://mapi.juanpi.com/goods/pinpai/list?catname=${catname}&page=${page}&location=${jpLocation}",
+qimimapi_goods_pop_sku: "https://mapi.juanpi.com/goods/pop/sku?goods_id=${goods_id}&platform=${jpPlatform}&app_version=${jpAppVersion}&ab_sku=${jpSXSKU}",
+qimimapi_goods_getSaleActivityInfo: "https://mapi.juanpi.com/goods/getSaleActivityInfo?goods_id=${goods_id}&utm=${jpUtm}&goods_utype=${jpGoodsUtype}&loginsource=${jpLoginSource}&min_price=${min_price}",
+qimimapi_goodsimg_get_list: "https://mapi.juanpi.com/goodsimg/get/list?goods_id=${goods_id}&page=${page}",
+qimimapi_goods_detail_imgshow: "https://mapi.juanpi.com/goods/detail/imgshow?goods_id=${goods_id}&app_version=${jpAppVersion}&ab_img=${jpABIMG}",
+qimimapi_goodsintro_flow_block: "https://mapi.juanpi.com/goodsintro/flow/block?catname=${catname}&cid=${cid}&uid=${jpUid}&did=${jpDid}&app_version=${jpAppVersion}&zy_ids=${jpZYIDS}&page=${page}",
+qimimapi_goods_detail_question: "https://mapi.juanpi.com/goods/detail/question?goods_id=${goods_id}&app_version=${jpAppVersion}&ab_show=${jpABSHOW}",
+qimimapi_goodsintro_recommendations: "https://mapi.juanpi.com/goodsintro/recommendations?type=${type}&app_version=${jpAppVersion}&platform=${jpPlatform}",
+qimimapi_goodsintro_detail_goods: "https://mapi.juanpi.com/goodsintro/detail/goods?goods_id=${goods_id}&platform=${jpPlatform}&app_version=${jpAppVersion}",
+qimimapi_goods_remind_detail: "https://mapi.juanpi.com/goods/remind/detail?goods_id=${goods_id}&sku_id=${sku_id}",
+qimimapi_goods_detail_fsinfo: "https://mapi.juanpi.com/goods/detail/fsinfo?goods_id=${goods_id}&app_version=${jpAppVersion}&platform=${jpPlatform}&type=${type}",
+qimimapi_appads_popup: "https://mapi.juanpi.com/appads/popup?app_name=zhe&goods_utype=${jpGoodsUtype}&platform=${jpPlatform}&utm=${jpUtm}&user_group=${jpUserGroup}&location=${jpLocation}&app_version=${jpAppVersion}&zy_ids=${jpZYIDS}&uid=${jpUid}",
+qimimapi_appads_banner: "https://mapi.juanpi.com/appads/banner?platform=${jpPlatform}&zy_ids=${jpZYIDS}&app_version=${jpAppVersion}&utm=${jpUtm}&catname=${catname}&cid=${cid}&app_name=${jpAppName}&show_index=${show_index}&ab_ad=${jpMODULEAD$${cid}}&homebanner=${jpHOMEBANNER}",
+qimimapi_appads_moduleads: "https://mapi.juanpi.com/appads/moduleads?platform=${jpPlatform}&catname=${catname}&cid=${cid}&app_version=${jpAppVersion}&zy_ids=${jpZYIDS}",
+qimimapi_appads_ads: "https://mapi.juanpi.com/appads/ads?platform=${jpPlatform}&catname=${catname}&cid=${cid}&app_version=${jpAppVersion}&zy_ids=${jpZYIDS}",
+qimimapi_coupons_get_list: "https://mapi.juanpi.com/coupons/get/list?req_coupons_id=${req_coupons_id}&goods_utype=${jpGoodsUtype}&uid=${jpUid}&platform=${jpPlatform}&user_label=${jpUSERLABEL}&app_version=${jpAppVersion}&zy_ids=${jpZYIDS}&zyids=${jpZYIDS}",
+qimimapi_coupons_add: "https://mapi.juanpi.com/coupons/add?idList=${idList}&by_share=${by_share}&goods_utype=${jpGoodsUtype}&uid=${jpUid}&platform=${jpPlatform}&sign=${jpSign}&source=${source}",
+qimimapi_timebuy_xrlist: "https://mapi.juanpi.com/timebuy/xrlist?app_version=${jpAppVersion}&utm=${jpUtm}&page=${page}&platform=${jpPlatform}&tab_id=${tab_id}&cate_item=${cate_item}&ab_xskq=${jpXSKQ}",
+qimimapi_category_main_list: "https://mapi.juanpi.com/category/main/list?app_name=${jpAppName}&app_version=${jpAppVersion}&platform=${jpPlatform}&zy_ids=${jpZYIDS}&item=${item}",
+qimimapi_usertype_get_abinfo: "https://mapi.juanpi.com/usertype/get/abinfo?uid=${jpUid}&did=${jpDid}&platform=${jpPlatform}&zy_ids=${jpZYIDS}",
+qimiapi_setting_seed: "https://api.juanpi.com/setting/seed?utm=${jpUtm}&app_version=${jpAppVersion}&platform=${jpPlatform}&to_switch=${jpToSwitch}&app_name=${jpAppName}&utype=${jpGoodsUtype}&ugroup=${jpUserGroup}&location=${jpLocation}",
+qimiapi_setting_leaf: "https://api.juanpi.com/setting/leaf?utm=${jpUtm}&app_version=${jpAppVersion}&platform=${jpPlatform}&to_switch=${jpToSwitch}&app_name=${jpAppName}&utype=${jpGoodsUtype}&ugroup=${jpUserGroup}&location=${jpLocation}&zy_ids=${jpZYIDS}",
+qimituan_ptitem_detail: "https://tuan.juanpi.com/ptitem/detail?app_version=${jpAppVersion}&item_id=${item_id}&uid=${jpUid}&pt=${pt}&platform=${jpPlatform}&info=${info}",
+qimituan_ptitem_goods_list: "https://tuan.juanpi.com/ptitem/goods_list?app_version=${jpAppVersion}&page=${page}&platform=${jpPlatform}&cid=${cid}",
+qimituan_ptgoods_getCouponList: "https://tuan.juanpi.com/ptgoods/getCouponList?app_version=${jpAppVersion}&pg_id=${pg_id}&goods_id=${goods_id}&platform=${jpPlatform}&goods_utype=${jpGoodsUtype}&uid=${jpUid}",
+qimituan_ptgoods_receive: "https://tuan.juanpi.com/ptgoods/receive?coupon_id=${coupon_id}&platform=${jpPlatform}&goods_utype=${jpGoodsUtype}&uid=${jpUid}&app_version=${jpAppVersion}&jpid=${jpId}&did=${jpDid}",
+qimimapi_goods_store_goods: "https://mapi.juanpi.com/goods/store/goods?seller_uid=${seller_uid}&app_name=zhe&platform=${jpPlatform}&page=${page}&app_version=${jpAppVersion}&xunsou=50&msort=${msort}&price_range=${price_range}&cat_threeids=${cat_threeids}&filter_id=${filter_id}",
+qimidetail-api_ptgoods_detail: "https://detail-api.juanpi.com/ptgoods/detail?app_version=${jpAppVersion}&pg_id=${pg_id}&goods_id=${goods_id}&item_id=${item_id}&platform=${jpPlatform}&info=${info}&uid=${jpUid}",
+qimidetail-api_ptgoods_sku: "https://detail-api.juanpi.com/ptgoods/sku?app_version=${jpAppVersion}&pg_id=${pg_id}&goods_id=${goods_id}&item_id=${item_id}&platform=${jpPlatform}&single_pop=${single_pop}&info=${info}&uid=${jpUid}",
+qimidetail-api_ptgoods_buybtn: "https://detail-api.juanpi.com/ptgoods/buybtn?app_version=${jpAppVersion}&pg_id=${pg_id}&goods_id=${goods_id}&item_id=${item_id}&platform=${jpPlatform}&info=${info}&uid=${jpUid}",
+qimidetail-api_ptgoods_guess_like: "https://detail-api.juanpi.com/ptgoods/guess/like?app_version=${jpAppVersion}&pg_id=${pg_id}&goods_id=${goods_id}&item_id=${item_id}&platform=${jpPlatform}",
+qimidetail-api_ptgoods_valuation: "https://detail-api.juanpi.com/ptgoods/valuation?goods_id=${goods_id}&app_version=${jpAppVersion}&show_list=${show_list}&tag=${tag}&page=${page}&bubble_index=${bubble_index}",
+qimisku: "&ab_sku=${jpSXSKU}"
+},
+time_line: [
+{
+s_time: "36000",
+e_time: "86399",
+tl_val: "2"
+},
+{
+s_time: "0",
+e_time: "36000",
+tl_val: "1"
+}
+],
+preload_list: {
+s_time: "1508947200",
+e_time: "1510624800",
+url_list: [
+"https://mact.juanpi.com/src_preload"
+]
+},
+hot_zip: {
+signredrain: {
+ver: "1030",
+url: "https://s.juancdn.com/bugfix/bugfix/hot_zip/signredrain.zip"
+},
+signredrainover: {
+ver: "1030",
+url: "https://s.juancdn.com/bugfix/bugfix/hot_zip/signredrainover.zip"
+},
+signredrainonce: {
+ver: "1030",
+url: "https://s.juancdn.com/bugfix/bugfix/hot_zip/signredrainonce.zip"
+},
+utfigures: {
+ver: "1026",
+url: "https://s.juancdn.com/bugfix/bugfix/hot_zip/app_usertagsfigure.zip"
+},
+utchase: {
+ver: "1027",
+url: "https://s.juancdn.com/bugfix/bugfix/hot_zip/app_usertagspurchase.zip"
+},
+utgoods: {
+ver: "1027",
+url: "https://s.juancdn.com/bugfix/bugfix/hot_zip/app_usertagslikegoods.zip"
+},
+cart_pop_coupon_1111v9: {
+ver: "20171112",
+url: "https://s.juancdn.com/bugfix/bugfix/hot_zip/cart_pop_coupon_11v7.zip"
+},
+vipcard_upgrade: {
+ver: "20180102_v2",
+url: "https://act.juancdn.com/jpwebapp/vipcard_upgrade.zip"
+},
+app_upgrade: {
+ver: "20180111_v4",
+url: "https://act.juancdn.com/jpwebapp/app_upgrade.zip"
+}
+}
+}
+}
